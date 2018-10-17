@@ -26,3 +26,4 @@ Tim and I will be in class to help you when you get stuck and hopefully by the e
 ## Grading
 At the end of the quarter, you should have a GitHub repo with all of your work from the quarter. This repo will be your 'final project' and will form the basis for your grade. Our expectation is that you will have all problem sets answered and organized.
 
+### In lcass execercise 
